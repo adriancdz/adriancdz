@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adriancaderao107@gmail.com**
 
-- ⚡ Fun fact **💻 Fun fact: I'm a college student learning Software Testing from scratch. I enjoy discovering bugs, solving problems, and learning new tech skills. My goal is to become a QA Tester!**
+- ⚡ Fun fact **💻: I'm a college student learning Software Testing from scratch. I enjoy discovering bugs, solving problems, and learning new tech skills. My goal is to become a QA Tester!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
